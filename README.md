@@ -1,2 +1,2 @@
 # javase
-java standard 
+java standard ok
